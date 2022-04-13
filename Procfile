@@ -1,2 +1,2 @@
-worker: python3 -m PunyaChael
-worker: python3 -m PunyaChael
+web: python3.6 -m PunyaChael
+worker: python3.6 -m PunyaChael
