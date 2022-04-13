@@ -1,2 +1,2 @@
-web: python3.6 -m PunyaChael
-worker: python3.6 -m PunyaChael
+worker: python3 -m PunyaChael
+ps:scale worker=1
